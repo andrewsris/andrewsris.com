@@ -1,49 +1,69 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
+# Display name
+name: Andrew Srisuwananukorn
+title: Andrew Srisuwananukorn, MD
+superuser: true
+role: Fellow of Hematology and Oncology 
+organizations:
+- name: Icahn School of Medicine at Mount Sinai
+  url: https://icahn.mssm.edu/education/residencies-fellowships/list/msh-hematology-oncology-fellowship
+
+bio: Fellow of Hematology and Oncology at Mount Sinai, interested in Machine Learning.
   matter.
+  
+email: "andrewsris@gmail.com"
+highlight_name: false
+
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
-highlight_name: false
+  - course: Fellowship in Hematology and Oncology 
+    institution: Icahn School of Medicine at Mount Sinai
+    year: 2023
+  - course: Residency in Internal Medicine 
+    institution: University of Illinois at Chicago 
+    year: 2020
+  - course: MD, Doctor of Medicine
+    institution: Indiana University School of Medicine
+    year: 2017
+  - course: BA in Physics (Concentration in Astronomy)
+    institution: Northwestern University
+    year: 2013
+  - course: BA in Mathematics
+    institution: Northwestern University
+    year: 2013
+
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- Myeloproliferative Neoplasms
+- Hematological Malignancies
+- Machine and Deep Learning
+- Data Visualization
+- R and Python
+- Cooking
+- Playing Piano and learning Jazz
+
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/andrewsris1
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=7riu_OwAAAAJ&hl=en&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
-superuser: true
-title: Nelson Bighetti
+  link: https://github.com/andrewsris
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-8736-8726
+
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Andrew Srisuwananukorn, and I am currently a Hematology and Oncology fellow at Mount Sinai Hospital. I am clinically interested in  Myeloproliferative Neoplasms and Hematological Malignancies, but my research interests include Machine Learning and deployment of models in the clinical setting. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Outside of medicine, I love cooking and exploring new restaurants with my fiancé in New York City. I have a passion for music, and am trying to learn Jazz Piano. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+This blog is built with [blogdown](https://github.com/rstudio/blogdown) and [Hugo](https://gohugo.io/), and deployed using [Netlify](https://www.netlify.com/). My blog posts are released under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). 
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume_2020_11.pdf" "newtab" >}}resumé{{< /staticref >}}.
