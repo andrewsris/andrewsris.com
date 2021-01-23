@@ -8,11 +8,10 @@ organizations:
 - name: Icahn School of Medicine at Mount Sinai
   url: https://icahn.mssm.edu/education/residencies-fellowships/list/msh-hematology-oncology-fellowship
 
-bio: Fellow of Hematology and Oncology at Mount Sinai, interested in Machine Learning.
-  matter.
+bio: Exploring Hematology, Machine Learning, and Big Data.
   
 email: "andrewsris@gmail.com"
-highlight_name: false
+highlight_name: true
 
 education:
   courses:
@@ -60,10 +59,11 @@ social:
 
 ---
 
-My name is Andrew Srisuwananukorn, and I am currently a Hematology and Oncology fellow at Mount Sinai Hospital. I am clinically interested in  Myeloproliferative Neoplasms and Hematological Malignancies, but my research interests include Machine Learning and deployment of models in the clinical setting. 
+Hello and thank you for reading my blog. In this space, I hope to explore concepts in Machine Learning as well as their applications within Hematology and Oncology. Please continue to watch this space, as it will continually be growing and eventually serve a hub to deploy the models I create.
 
-Outside of medicine, I love cooking and exploring new restaurants with my fiancé in New York City. I have a passion for music, and am trying to learn Jazz Piano. 
+Currently, I am clinically interested in Myeloproliferative Neoplasms and Hematological Malignancies in general, but my research interests include Machine Learning, big data, and multi-omics integration. 
 
-This blog is built with [blogdown](https://github.com/rstudio/blogdown) and [Hugo](https://gohugo.io/), and deployed using [Netlify](https://www.netlify.com/). My blog posts are released under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). 
+Outside of medicine, I love cooking and exploring new restaurants with my wife (!!) in New York City. I have a passion for music, both listening and playing. I am trying to learn jazz piano right not, and it is a real struggle.
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume_2020_11.pdf" "newtab" >}}resumé{{< /staticref >}}.

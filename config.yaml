@@ -1,8 +1,7 @@
 theme: starter-academic
-title: Academic
+title: Andrew Srisuwananukorn
 baseurl: 'https://www.andrew.srisuwananukorn.com/'
-copyright: ''
-enableGitInfo: no
+copyright: '&copy; Andrew Srisuwananukorn, {year}'
 defaultContentLanguage: en
 hasCJKLanguage: no
 defaultContentLanguageInSubdir: no
