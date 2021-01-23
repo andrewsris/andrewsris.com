@@ -1,0 +1,13 @@
+---
+title: "Accounting for early job turnover in recent pediatric surgery fellowship graduates: An American Pediatric Surgical Association Membership and Credentials Committee study"
+date: 2018-05-23
+publishDate: 2021-01-23T16:37:10.791197Z
+authors: ["T. D. Crafts", "T. M. Bell", admin, "H. Applebaum", "T. A. Markel"]
+publication_types: ["2"]
+abstract: "PURPOSE: Employment opportunities for graduating pediatric surgeons vary from year to year. Significant turnover among new employees indicates fellowship graduates may be unsophisticated in choosing job opportunities which will ultimately be satisfactory for themselves and their families. The purpose of this study was to assess what career, life, and social factors contributed to the turnover rates among pediatric surgeons in their first employment position. METHODS: American Pediatric Surgical Association members who completed fellowship training between 2011 and 2016 were surveyed voluntarily. Only those who completed training in a pediatric surgery fellowship sanctioned by the American Board of Surgery and whose first employment involved the direct surgical care of patients were included. The survey was completed electronically and the results were evaluated using chi-squared analysis to determine which independent variables contributed to a dependent outcome of changing place of employment. RESULTS: 110 surveys were returned with respondents meeting inclusion criteria. 13 (11.8%) of the respondents changed jobs within the study period and 97 (88.2%) did not change jobs. Factors identified that likely contributed to changing jobs included a perceived lack of opportunity for career [p=<0.001] advancement and the desire to no longer work at an academic or teaching facility [p=0.013]. Others factors included excessive case load [p=0.006]; personal conflict with partners or staff [p=0.007]; career goals unfulfilled by practice [p=0.011]; lack of mentorship in partners [p=0.026]; and desire to be closer to the surgeon's or their spouse's family [p=0.002]. CONCLUSIONS: Several factors appear to play a role in motivating young pediatric surgeons to change jobs early in their careers. These factors should be taken into account by senior pediatric fellows and their advisors when considering job opportunities. TYPE OF STUDY: Survey. LEVEL OF EVIDENCE: IV."
+featured: false
+publication: "*J Pediatr Surg*"
+url_pdf: "https://www.ncbi.nlm.nih.gov/pubmed/29784283"
+doi: "10.1016/j.jpedsurg.2018.04.028"
+---
+
