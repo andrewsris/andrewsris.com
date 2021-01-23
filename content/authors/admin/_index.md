@@ -24,13 +24,14 @@ education:
   - course: MD, Doctor of Medicine
     institution: Indiana University School of Medicine
     year: 2017
-  - course: BA in Physics (Concentration in Astronomy)
+  - course: BA in Physics and Astronomy
     institution: Northwestern University
     year: 2013
   - course: BA in Mathematics
     institution: Northwestern University
     year: 2013
 
+    
 interests:
 - Myeloproliferative Neoplasms
 - Hematological Malignancies
